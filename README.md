@@ -55,13 +55,11 @@ Questa operazione eliminerà le cartelle Localization create e pulirà il file u
 ⚠️ Disclaimer
 Questo è un progetto non ufficiale sviluppato dalla community. Non è affiliato a Cloud Imperium Games (CIG) o Roberts Space Industries (RSI). L'uso della traduzione è a discrezione dell'utente.
 
-🤝 Social & Supporto
-Entra a far parte della nostra community:
+## 🤝 Social & Supporto
+Scegli un canale per unirti alla community:
 
-YouTube
-
-Discord
-
-RSI Org
+*   [**Canale YouTube**](https://www.youtube.com/@MrRevoTV) - Tutorial hardware e software.
+*   [**Server Discord**](https://discord.gg/W9xYAss9yE) - Supporto tecnico e chat.
+*   [**Organizzazione RSI**](https://robertsspaceindustries.com/en/orgs/ALSE) - La nostra flotta in-game.
 
 Progetto sviluppato da MrRevo. See you in the Verse! 🌌✨
