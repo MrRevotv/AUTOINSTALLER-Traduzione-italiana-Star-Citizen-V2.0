@@ -3,8 +3,6 @@
 # 🚀 Star Citizen ITA Launcher V2.0
 
 ![Static Badge](https://img.shields.io/badge/language-IT-blue)
-![Download Totali](https://img.shields.io/github/downloads/MrRevotv/StarCitizenItaLauncher/total?color=cyan&style=for-the-badge)
-![Download ZIP](https://img.shields.io/github/downloads/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen-V2.0/latest/SC_Localizzazione_Italiano.zip?label=Download%20Manuali&style=flat-square&color=orange)
 ![Platform](https://img.shields.io/badge/OS-Windows-lightgrey)
 
 **La traduzione italiana pubblica creata da MrRevo, GattoMatto e dall'org LSE per la community di Star Citizen.**
