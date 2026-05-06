@@ -1,120 +1,79 @@
 <div align="center">
 
-# 🚀 Star Citizen ITA Launcher V2.0
+# 🚀 Star Citizen ITA Launcher
+**Il modo più semplice e intelligente per vivere Star Citizen in Italiano.**
 
-![Static Badge](https://img.shields.io/badge/language-IT-blue)
-![Platform](https://img.shields.io/badge/OS-Windows-lightgrey)
+[![Download Totali](https://img.shields.io/github/downloads/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen-V2.0/total?color=00D8FF&label=DOWNLOAD%20TOTALI&style=for-the-badge)](https://github.com/MrRevotv/StarCitizenItaLauncher/releases/latest/download/StarCitizenItaLauncher.exe)
+[![Ultima Release](https://img.shields.io/github/v/release/MrRevotv/StarCitizenItaLauncher?color=orange&label=VERSIONE&style=for-the-badge)](https://github.com/MrRevotv/StarCitizenItaLauncher/releases/latest)
 
-**La traduzione italiana pubblica creata da MrRevo, GattoMatto e dall'org LSE per la community di Star Citizen.**
+[![Lingua](https://img.shields.io/badge/Lingua-Italiano-blue?style=flat-square)](https://github.com/MrRevotv)
+[![Piattaforma](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square)](https://it.wikipedia.org/wiki/Microsoft_Windows)
 
 <br>
 
-[![Scarica l'installer](https://github.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/blob/main/Immagini%20Github/button-1187460_1280.png?raw=true)](https://github.com/MrRevotv/StarCitizenItaLauncher/releases/latest/download/StarCitizenItaLauncher.exe)
-
-*(Versione Consigliata: Autoinstaller Intelligente)*
+**Un progetto creato da MrRevo, GattoMatto e dall'Organizzazione LSE per la community italiana.**
+*Sviluppato per essere veloce, sicuro e pronto in un clic.*
 
 <br>
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-   <!-- Inserisci qui le 3 immagini vetrina del launcher -->
-   <img src="images/image1.png" width="250" alt="Screenshot Launcher 1"/>
-   <img src="images/image2.png" width="250" alt="Screenshot Launcher 2"/>
-   <img src="images/image3.png" width="250" alt="Screenshot Launcher 3"/>
+   <img src="images/image1.png" width="250" alt="Home Launcher"/>
+   <img src="images/image2.png" width="250" alt="Aggiornamento Disponibile"/>
+   <img src="images/image3.png" width="250" alt="Settings"/>
 </div>
 
 </div>
 
 <br>
 
-## ✨ Nuove Caratteristiche del Launcher
-Questo non è un semplice file da scaricare, ma un vero e proprio gestore intelligente per la tua traduzione:
-* 🎯 **Rilevamento Automatico:** Trova da solo la cartella di Star Citizen, anche se installato su dischi secondari.
-* 🔄 **Aggiornamenti in Background:** Ti avvisa con una notifica di Windows non appena c'è una nuova traduzione disponibile.
-* 🗂️ **Gestione Multi-Canale:** Scegli con un clic se tradurre il server `LIVE`, `PTU` o `EPTU`.
-* ⚙️ **Avvio con Windows:** Possibilità di avvio minimizzato nel vassoio di sistema per restare sempre aggiornato.
+---
+
+## 💎 Perché usare il Launcher?
+Dimentica i vecchi copia-incolla manuali. Il nuovo Launcher gestisce tutto il lavoro sporco per te:
+
+* 🎯 **Rilevamento Intelligente:** Trova la cartella di installazione in automatico (anche su dischi secondari).
+* 📡 **Radar PTU:** La voce `PTU` appare nel menu solo se la traduzione è effettivamente pronta sui nostri server. Se non c'è nulla da scaricare, il launcher non ti fa perdere tempo.
+* ⚡ **One-Click Update:** Se esce una patch di Star Citizen che rompe la traduzione, il tasto diventa verde: un clic e sei di nuovo in gioco.
+* 🔔 **Notifiche Smart:** Ti avvisa con una notifica di sistema non appena carichiamo un nuovo file su GitHub.
+* 🎮 **Direct Play:** Una volta aggiornato, premi "GIOCA" e il launcher lancerà per te l'eseguibile ufficiale RSI.
 
 ---
 
-## 📖 Indice
-- [Installazione Automatica (Consigliata)](#installazione-automatica-consigliata)
-- [Come usare il Launcher](#come-usare-il-launcher)
-- [Installazione Manuale](#installazione-manuale)
-- [Disinstallazione / Ripristino](#disinstallazione--ripristino)
+## 🛠️ Installazione (Consigliata)
+
+1. **Scarica l'Installer:** Clicca sul pulsante azzurro **DOWNLOAD TOTALI** in alto o [Clicca Qui](https://github.com/MrRevotv/StarCitizenItaLauncher/releases/latest/download/StarCitizenItaLauncher.exe).
+2. **Avvia:** Esegui il file `StarCitizenItaLauncher.exe`.
+3. **SmartScreen:** Essendo un software indipendente, Windows potrebbe mostrare un avviso. Clicca su **"Ulteriori informazioni"** e poi su **"Esegui comunque"**.
+4. **Fatto!** Il Launcher si occuperà di tutto il resto.
 
 ---
 
-## 🛠️ Installazione Automatica (Consigliata)
+## ⚙️ Funzioni Avanzate
 
-1. Clicca sul grande pulsante arancione in alto per scaricare il file `StarCitizenItaLauncher.exe`.
-2. Se il browser ti chiede conferma, accetta il download sicuro.
-3. Avvia il file scaricato.
+### 📂 Caricamento File Custom
+Sei un traduttore o vuoi testare una tua versione del file `.ini`?
+Vai in `SETTINGS` e abilita l'opzione. Apparirà un pulsante viola **📂 CUSTOM** che ti permetterà di caricare il tuo file personale sovrascrivendo temporaneamente quello ufficiale.
 
-> ⚠️ **AVVISO DI SICUREZZA WINDOWS:**
-> Essendo un software nuovo e indipendente, Windows SmartScreen potrebbe mostrare una schermata blu dicendo che "PC protetto da Windows" ha bloccato l'avvio. **Il software è sicuro al 100%**.
-> * Per procedere: Clicca su **`Ulteriori Informazioni`** e successivamente sul tasto **`Esegui Comunque`**.
-
-<div align="center">
-   <img src="images/ulterioriinfo.png" width="350" alt="Ulteriori Informazioni"/>
-   <img src="images/eseguicmq.png" width="350" alt="Esegui Comunque"/>
-</div>
+### 🗑️ Pulizia e Ripristino
+Vuoi tornare al gioco originale in inglese per segnalare un bug su Issue Council?
+Seleziona il canale e clicca sull'icona della **pattumiera rossa**. Il Launcher rimuoverà ogni traccia della traduzione e del file `user.cfg`, riportando il gioco allo stato nativo.
 
 ---
 
-## 🎮 Come usare il Launcher
+## 🖐️ Download Manuale (.zip)
+Se preferisci gestire i file manualmente senza l'ausilio del software, puoi scaricare l'archivio compresso che include il file `global.ini` e il file `user.cfg` già configurato.
 
-Una volta avviato, l'interfaccia ti guiderà passo dopo passo. 
+[![Scarica ZIP Manuale](https://img.shields.io/badge/DOWNLOAD-VERSIONE_MANUALE_(ZIP)-orange?style=for-the-badge&logo=archive)](https://github.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen-V2.0/releases/latest/download/SC_Localizzazione_Italiano.zip)
 
-**1. Selezione Canale**
-In automatico il launcher cercherà il gioco. Una volta trovato, seleziona il canale a cui vuoi applicare la traduzione (LIVE, PTU, ecc.).
-
-*[INSERISCI QUI IMMAGINE: Focus sui tab LIVE / PTU / EPTU]*
-
-**2. Download e Aggiornamento**
-Se non hai la traduzione, o se c'è un aggiornamento disponibile, il pulsante principale diventerà verde. Cliccalo per installare tutto automaticamente.
-
-*[INSERISCI QUI IMMAGINE: Pulsante verde "SCARICA AGGIORNAMENTO"]*
-
-**3. Gioca!**
-A installazione completata, il pulsante diventerà azzurro e riporterà la scritta **"GIOCA"**. Cliccandolo si aprirà direttamente il launcher ufficiale RSI!
-
-*[INSERISCI QUI IMMAGINE: Pulsante azzurro "GIOCA"]*
-
-### ⚙️ Impostazioni e Funzioni Avanzate
-Cliccando su `⚙ SETTINGS` in alto a destra, potrai:
-* Scegliere se avviare il launcher all'accensione del PC.
-* Scegliere la cartella del gioco manualmente (se la ricerca fallisce).
-* Abilitare il **Caricamento File Custom** (se hai un tuo file `.ini` modificato, ti apparirà un pulsante viola `📂 CUSTOM` per caricarlo nel gioco al posto di quello ufficiale).
-
----
-
-## 🖐️ Installazione Manuale
-
-Se preferisci non usare il Launcher intelligente, puoi installare la traduzione a mano:
-1. Scarica il file `global.ini` dal seguente [![Scarica ZIP Manuale](https://img.shields.io/badge/DOWNLOAD-VERSIONE_MANUALE_(ZIP)-orange?style=for-the-badge&logo=archive)](https://github.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen-V2.0/raw/main/SC_Localizzazione_Italiano.zip)
-2. Apri la cartella di installazione di Star Citizen (es: `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE`).
-3. Apri il file zip scaricato ed estrai la cartella `data` dentro la cartella `LIVE` (o PTU).
-4. Estrai anche il file `user.cfg` sempre nella stessa directory.
-
----
-
-## 🗑️ Disinstallazione / Ripristino
-
-**Tramite Launcher (Consigliato):**
-1. Apri lo Star Citizen ITA Launcher.
-2. Seleziona il canale da ripristinare.
-3. Clicca sul piccolo pulsante rosso **`🗑 RIMUOVI`** che compare a destra. Il gioco tornerà immediatamente in lingua originale (Inglese).
-*(Nota: se avevi caricato un file personalizzato, il tasto principale diventerà arancione con la scritta "RIPRISTINA UFFICIALE").*
-
-**Manualmente:**
-1. Vai nella cartella del gioco (es: `StarCitizen\LIVE`).
-2. Elimina il file `user.cfg`.
-3. Entra nella cartella `data` -> `Localization` ed elimina l'intera cartella `italian_(italy)`.
+> **Istruzioni Manuali:** Estrai il contenuto dello ZIP nella cartella principale del gioco (es. `LIVE`). Assicurati che il percorso finale del file sia: `data\Localization\italian_(italy)\global.ini`.
 
 ---
 
 <div align="center">
-    <h3>Entra nella nostra Community!</h3>
-    <a href="https://discord.gg/W9xYAss9yE">Discord</a> • 
-    <a href="https://www.youtube.com/@MrRevoTV">YouTube</a> • 
-    <a href="https://robertsspaceindustries.com/en/orgs/ALSE">Org LSE</a>
+
+### 🌍 Unisciti alla Community
+Siamo costantemente al lavoro per migliorare la traduzione e il launcher. Passa a trovarci!
+
+[💬 Discord Ufficiale](https://discord.gg/W9xYAss9yE) • [📺 Canale YouTube](https://www.youtube.com/@MrRevoTV) • [🚀 Org LSE](https://robertsspaceindustries.com/en/orgs/ALSE)
+
 </div>
