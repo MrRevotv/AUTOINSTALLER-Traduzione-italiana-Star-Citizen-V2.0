@@ -11,7 +11,7 @@
 
 <br>
 
-[![Scarica l'installer](https://github.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/blob/main/Immagini%20Github/button-1187460_1280.png?raw=true)](https://github.com/MrRevotv/StarCitizenItaLauncher/releases/download/Ita_V2.0/StarCitizenItaLauncher.exe)
+[![Scarica l'installer](https://github.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/blob/main/Immagini%20Github/button-1187460_1280.png?raw=true)](https://github.com/MrRevotv/StarCitizenItaLauncher/releases/latest/download/StarCitizenItaLauncher.exe)
 
 *(Versione Consigliata: Autoinstaller Intelligente)*
 
