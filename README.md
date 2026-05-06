@@ -4,7 +4,6 @@
 
 ![Static Badge](https://img.shields.io/badge/language-IT-blue)
 ![Download Totali](https://img.shields.io/github/downloads/MrRevotv/StarCitizenItaLauncher/total?color=cyan&style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/MrRevotv/StarCitizenItaLauncher/total?color=00D8FF&label=DOWNLOADS&style=for-the-badge)
 ![Platform](https://img.shields.io/badge/OS-Windows-lightgrey)
 
 **La traduzione italiana pubblica creata da MrRevo, GattoMatto e dall'org LSE per la community di Star Citizen.**
